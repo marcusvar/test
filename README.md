@@ -9,6 +9,9 @@ Operação em omnichannel para transportes, viagens e muito mais.
 
 Plataforma de gerenciamento de produtos e serviços voltados para pessoas físicas e jurídicas com diversas funcionalidades. O core do sistema se apresenta no transporte rodoviário, futuramente também irá atender transportes aéreos, rede hoteleira e muito mais.
 
+## para quem se destina o EU+ Parceiros
+EU+ Parceiros é destinado a empresas do transporte rodoviário de pessoas que buscam por um sistema flexível e inovador para ofertar seus horários de operação em omnichannel, também buscam segurança e robustez de um sistema a anos no mercado.
+
 ## Principais funcionalidades da plataforma
 - PDV para venda de passagens
 - Gestão de linhas e horários
